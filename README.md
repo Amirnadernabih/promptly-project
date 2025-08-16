@@ -1,9 +1,9 @@
 # ============================
-# 🌐 Stunning Project Setup
+# 🌐 Promptly Project Setup
 # ============================
 
 # 1. Clone the repository
-git clone https://github.com/Amirnadernabih/stunning-project-task.git
+git clone https://github.com/Amirnadernabih/promptly-project.git
 cd stunning-project
 
 # ============================
